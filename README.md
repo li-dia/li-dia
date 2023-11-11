@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @li-dia
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently a master 2 student in Computer engineering
 - 📫 gmail:lbrlydia@gmail.com
 
 <!---
